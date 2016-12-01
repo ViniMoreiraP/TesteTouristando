@@ -1,0 +1,8 @@
+plano de testes:
+1-	itens a serem testados: o escopo e obejetivo do plano devem ser estabelecidos desdo inicio do projeto
+2- 	atividades e recursos a serem empregados: as estrategias de testes e recursos utilizados devem ser deifinidos,
+	bem como toda e qualquer restricao imposta sobre as atividadese e recursos
+3-	os tipos de testes a serem realizados e ferramentas empregadas: os tipos de testes ea ordem cronologica de 
+	sua ocorrencia sao estabelecidos no plano
+4-	criterios para avaliar os resultados obtidos: metricas devem ser definidas para acompanhar os resultados
+	alcancados
